@@ -1,0 +1,58 @@
+UNITID,INSTNM,CITY,STABBR,ZIP,ADM_RATE,UGDS,TUITIONFEE_IN,MN_EARN_WNE_P10
+131159,American University,Washington,DC,20016-8001,0.294,7433.0,46615.0,NaN
+131283,The Catholic University of America,Washington,DC,20064,0.8258,3284.0,44060.0,NaN
+131399,University of the District of Columbia,Washington,DC,20008,NaN,3606.0,5756.0,NaN
+131405,Pontifical Faculty of the Immaculate Conception at the Dominican House of Studies,Washington,DC,20017-1585,NaN,NaN,NaN,NaN
+131450,Gallaudet University,Washington,DC,20002-3695,0.5901,1111.0,16558.0,NaN
+131469,George Washington University,Washington,DC,20052,0.4098,11718.0,53518.0,NaN
+131496,Georgetown University,Washington,DC,20057-0001,0.1568,7128.0,52300.0,NaN
+131520,Howard University,Washington,DC,20059-0001,0.4142,6276.0,25697.0,NaN
+131803,Strayer University-District of Columbia,Washington,DC,20005,NaN,687.0,13857.0,NaN
+131830,National Conservatory of Dramatic Arts,Washington,DC,20007,1.0,32.0,9900.0,NaN
+131876,Trinity Washington University,Washington,DC,20017-1094,0.9228,1498.0,23690.0,NaN
+131973,Wesley Theological Seminary,Washington,DC,20016-5690,NaN,NaN,NaN,NaN
+161855,Baltimore Studio of Hair Design,Baltimore,MD,21201-3444,NaN,46.0,NaN,NaN
+161864,Baltimore City Community College,Baltimore,MD,21215-7893,NaN,3797.0,3074.0,NaN
+161873,University of Baltimore,Baltimore,MD,21201-5720,0.8099,2856.0,8824.0,NaN
+162283,Coppin State University,Baltimore,MD,21216-3698,0.3651,2459.0,7474.0,NaN
+162371,North American Trade Schools,Baltimore,MD,21244,NaN,448.0,NaN,NaN
+162654,Goucher College,Baltimore,MD,21204-2794,0.7884,1526.0,43440.0,NaN
+162928,Johns Hopkins University,Baltimore,MD,21218-2688,0.1254,5663.0,52170.0,NaN
+163046,Loyola University Maryland,Baltimore,MD,21210-2699,0.7528,3903.0,47560.0,NaN
+163259,University of Maryland Baltimore,Baltimore,MD,21201-1627,NaN,918.0,NaN,NaN
+163268,University of Maryland-Baltimore County,Baltimore,MD,21250,0.6021,11130.0,11518.0,NaN
+163295,Maryland Institute College of Art,Baltimore,MD,21217-4134,0.6161,1743.0,46990.0,NaN
+163453,Morgan State University,Baltimore,MD,21251-0001,0.6372,6426.0,7766.0,NaN
+163532,Ner Israel Rabbinical College,Baltimore,MD,21208,0.6418,265.0,11900.0,NaN
+163578,Notre Dame of Maryland University,Baltimore,MD,21210-2476,0.7140000000000001,808.0,36070.0,NaN
+163736,Brightwood College-Baltimore,Baltimore,MD,21227-1063,NaN,452.0,NaN,NaN
+163815,Maryland Beauty Academy of Essex,Baltimore,MD,21224,NaN,80.0,NaN,NaN
+173993,Mesabi Range College,Virginia,MN,55792,NaN,724.0,5329.0,NaN
+177436,Four Rivers Career Center,Washington,MO,63090-4235,NaN,33.0,14441.0,NaN
+197966,Beaufort County Community College,Washington,NC,27889,NaN,1390.0,2518.0,NaN
+203997,Methodist Theological School in Ohio,Delaware,OH,43015-3211,NaN,NaN,NaN,NaN
+204909,Ohio Wesleyan University,Delaware,OH,43015-2370,0.7139,1549.0,44690.0,NaN
+212452,Faith Theological Seminary,Baltimore,MD,21212-2624,1.0,66.0,5870.0,NaN
+214892,Penn Commercial Business/Technical School,Washington,PA,15301-6822,0.9539,225.0,20000.0,NaN
+216630,Washington Hospital School of Nursing,Washington,PA,15301,NaN,49.0,NaN,NaN
+216649,Washington Hospital School of Radiologic Technology,Washington,PA,15301,NaN,13.0,11600.0,NaN
+216667,Washington & Jefferson College,Washington,PA,15301,0.4785,1378.0,46628.0,NaN
+245625,Warren County Community College,Washington,NJ,07882-4343,NaN,1113.0,4590.0,NaN
+363721,University of the District of Columbia-David A Clarke School of Law,Washington,DC,20008,NaN,NaN,NaN,NaN
+373784,All-State Career-Baltimore,Baltimore,MD,21224,NaN,561.0,NaN,NaN
+384412,University of the Potomac-Washington DC Campus,Washington,DC,20005,NaN,65.0,13884.0,NaN
+420370,Career Technical Institute,Washington,DC,20005,NaN,387.0,NaN,NaN
+434672,Community College of Baltimore County,Baltimore,MD,21237,NaN,17614.0,4022.0,NaN
+439473,Bennett Career Institute,Washington,DC,20017,NaN,312.0,NaN,NaN
+444893,Technical Learning Centers Inc,Washington,DC,20006-5540,NaN,172.0,NaN,NaN
+450076,Fortis Institute-Baltimore,Baltimore,MD,21244,NaN,87.0,NaN,NaN
+450483,University of Phoenix-Washington DC,Washington,DC,20001-1431,NaN,70.0,9960.0,NaN
+455804,Institute of World Politics,Washington,DC,20036,NaN,NaN,NaN,NaN
+455813,Pontifical John Paul II Institute for Studies on Marriage and Family,Washington,DC,20064,NaN,NaN,NaN,NaN
+459745,The Chicago School of Professional Psychology at Washington DC,Washington,DC,20005,NaN,NaN,NaN,NaN
+459994,Strayer University-Global Region,Washington,DC,20005,NaN,5543.0,13857.0,NaN
+461379,Holistic Massage Training Institute,Baltimore,MD,21218,NaN,59.0,NaN,NaN
+476601,Bais HaMedrash and Mesivta of Baltimore,Baltimore,MD,21209-1613,1.0,76.0,12700.0,NaN
+13180301,Strayer University-Takoma Park Campus,Washington,DC,20012,NaN,NaN,13857.0,NaN
+43018403,Strayer University-White Marsh Campus,Baltimore,MD,21236,NaN,NaN,13857.0,NaN
+47503313,Relay Graduate School of Education - Washington D.C,Washington,DC,20002,NaN,NaN,NaN,NaN
