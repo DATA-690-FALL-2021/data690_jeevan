@@ -25,14 +25,17 @@ I would like to explore 3 topics on  **Education rate, Energy and Mining and Hea
 - Energy and mining is an another sector where imports and exports decides the development of country 
 - For this indicator have considered the percentage of merchandise fuel exports and percentage of merchandise fuel imports
 
-![](Pic.jpeg)
+![](fuelimports.jpeg)
+
+![](fuelexports.jpeg)
 
 - I have also considered the percentage of merchandise ores and metals imports and exports and various graphs are below
 
-![](Pic.jpeg)
+![](oresandmetalsexports.jpeg)
 
-![](Pic.jpeg)
+![](oresandmetalsimports.jpeg)
 
+![](timeseriesfuelimports.jpeg)
 
 ## Health Sector
 
