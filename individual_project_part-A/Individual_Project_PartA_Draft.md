@@ -19,7 +19,7 @@ I would like to explore 3 topics on  **Education rate, Energy and Mining and Hea
 
 
 -Pie chart showing the percentage of these countries
-![](Pic.jpeg)
+![](pop_pie.jpeg)
 
 ## Energy and Mining
 - Energy and mining is an another sector where imports and exports decides the development of country 
