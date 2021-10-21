@@ -39,7 +39,7 @@ I would like to explore 3 topics on  **Education rate, Energy and Mining and Hea
 - Health sector is another major sector which decides the countries population, life expectancy.
 -  Poor health sector facilities decides the development of the country.
 - I have selected the indicators number of people under 5 age deaths and also with respect to male and female
-- ![](Pic.jpeg)
-- ![](Pic.jpeg)
-- ![](Pic.jpeg)
+ ![](Pic.jpeg)
+ ![](Pic.jpeg)
+ ![](Pic.jpeg)
 
