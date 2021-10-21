@@ -15,7 +15,7 @@ I would like to explore 3 topics on  **Education rate, Energy and Mining and Hea
 
 - Also comparing only female with 25+ age with no education of these countries shown below
 
-![](female 25+ .png)
+![](female 25+.png)
 
 
 -Pie chart showing the percentage of these countries
