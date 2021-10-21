@@ -33,9 +33,11 @@ I would like to explore 3 topics on  **Education rate, Energy and Mining and Hea
 
 ![](oresandmetalsexports.jpeg)
 
-![](oresandmetalsimports.jpeg)
+![](oresandmetalsimport.jpeg)
 
-![](timeseriesfuelimports.jpeg)
+- An time series plot of percentage of fuel exports over the years as shown below
+
+![](timeseriesfuelexports.jpeg)
 
 ## Health Sector
 
