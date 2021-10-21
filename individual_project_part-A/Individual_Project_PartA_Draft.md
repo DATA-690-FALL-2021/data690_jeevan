@@ -52,3 +52,4 @@ I would like to explore 3 topics on  **Education rate, Energy and Mining and Hea
 
 ![](underfivepie.jpeg)
 
+- I would like ti explore more about this topic considering these above crucial factors in deciding the development of the country over the years
