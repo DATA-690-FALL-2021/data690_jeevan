@@ -10,7 +10,7 @@ I would like to explore 3 topics on  **Education rate, Energy and Mining and Hea
 - I have selected two countries each from underdeveloped country, developed country and developing countries. They are India, United States, China, Australia, Male and Niger
 - Considering minimum education degree completes on or before the age of 25 the percentage of population with 25 + age having no education of different countries are shown below
 
-![](pop 25+ .jpeg)
+![](pop 25+.jpeg)
 
 
 - Also comparing only female with 25+ age with no education of these countries shown below
