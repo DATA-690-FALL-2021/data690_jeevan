@@ -1,0 +1,28 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2015,25.2908131821,TX.VAL.FUEL.ZS.UN,AUS,Australia,East Asia & Pacific,High income,Not classified
+1,2016,25.59709319,TX.VAL.FUEL.ZS.UN,AUS,Australia,East Asia & Pacific,High income,Not classified
+2,2017,21.2467770616,TX.VAL.FUEL.ZS.UN,AUS,Australia,East Asia & Pacific,High income,Not classified
+3,2018,23.0697197237,TX.VAL.FUEL.ZS.UN,AUS,Australia,East Asia & Pacific,High income,Not classified
+4,2019,18.9273624619,TX.VAL.FUEL.ZS.UN,AUS,Australia,East Asia & Pacific,High income,Not classified
+5,2015,1.2272663914,TX.VAL.FUEL.ZS.UN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+6,2016,1.2810009023,TX.VAL.FUEL.ZS.UN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+7,2017,1.5635574423,TX.VAL.FUEL.ZS.UN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+8,2018,1.8694493603,TX.VAL.FUEL.ZS.UN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+9,2019,1.8824208381,TX.VAL.FUEL.ZS.UN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+10,2015,11.8719129003,TX.VAL.FUEL.ZS.UN,IND,India,South Asia,Lower middle income,IBRD
+11,2016,10.6421920663,TX.VAL.FUEL.ZS.UN,IND,India,South Asia,Lower middle income,IBRD
+12,2017,12.1859466738,TX.VAL.FUEL.ZS.UN,IND,India,South Asia,Lower middle income,IBRD
+13,2018,15.0674513467,TX.VAL.FUEL.ZS.UN,IND,India,South Asia,Lower middle income,IBRD
+14,2019,13.7763506599,TX.VAL.FUEL.ZS.UN,IND,India,South Asia,Lower middle income,IBRD
+15,2016,0.0140747639,TX.VAL.FUEL.ZS.UN,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+16,2017,0.0217351376,TX.VAL.FUEL.ZS.UN,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+17,2015,18.7837679586,TX.VAL.FUEL.ZS.UN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+18,2016,16.4636618821,TX.VAL.FUEL.ZS.UN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+19,2017,13.1909874551,TX.VAL.FUEL.ZS.UN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+20,2018,14.4108410269,TX.VAL.FUEL.ZS.UN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+21,2015,8.0034181299,TX.VAL.FUEL.ZS.UN,USA,United States,North America,High income,Not classified
+22,2016,7.5786537752,TX.VAL.FUEL.ZS.UN,USA,United States,North America,High income,Not classified
+23,2017,10.510451293100001,TX.VAL.FUEL.ZS.UN,USA,United States,North America,High income,Not classified
+24,2018,13.529994137,TX.VAL.FUEL.ZS.UN,USA,United States,North America,High income,Not classified
+25,2019,14.1993658856,TX.VAL.FUEL.ZS.UN,USA,United States,North America,High income,Not classified
+26,2020,12.7159910119,TX.VAL.FUEL.ZS.UN,USA,United States,North America,High income,Not classified

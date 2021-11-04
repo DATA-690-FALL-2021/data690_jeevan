@@ -1,0 +1,28 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2015,32.1805041345,TX.VAL.MMTL.ZS.UN,AUS,Australia,East Asia & Pacific,High income,Not classified
+1,2016,31.5276868491,TX.VAL.MMTL.ZS.UN,AUS,Australia,East Asia & Pacific,High income,Not classified
+2,2017,29.6710012445,TX.VAL.MMTL.ZS.UN,AUS,Australia,East Asia & Pacific,High income,Not classified
+3,2018,27.4374181405,TX.VAL.MMTL.ZS.UN,AUS,Australia,East Asia & Pacific,High income,Not classified
+4,2019,32.7595818346,TX.VAL.MMTL.ZS.UN,AUS,Australia,East Asia & Pacific,High income,Not classified
+5,2015,1.1708695722,TX.VAL.MMTL.ZS.UN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+6,2016,1.1276179316000001,TX.VAL.MMTL.ZS.UN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+7,2017,1.204732079,TX.VAL.MMTL.ZS.UN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+8,2018,1.3227375574,TX.VAL.MMTL.ZS.UN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+9,2019,1.265700993,TX.VAL.MMTL.ZS.UN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+10,2015,3.3774175680000003,TX.VAL.MMTL.ZS.UN,IND,India,South Asia,Lower middle income,IBRD
+11,2016,3.1592317053,TX.VAL.MMTL.ZS.UN,IND,India,South Asia,Lower middle income,IBRD
+12,2017,4.0096479244,TX.VAL.MMTL.ZS.UN,IND,India,South Asia,Lower middle income,IBRD
+13,2018,3.5336966584000002,TX.VAL.MMTL.ZS.UN,IND,India,South Asia,Lower middle income,IBRD
+14,2019,3.5408799744,TX.VAL.MMTL.ZS.UN,IND,India,South Asia,Lower middle income,IBRD
+15,2016,0.1385163077,TX.VAL.MMTL.ZS.UN,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+16,2017,0.3552702559,TX.VAL.MMTL.ZS.UN,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+17,2015,50.9043348911,TX.VAL.MMTL.ZS.UN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+18,2016,32.2634786825,TX.VAL.MMTL.ZS.UN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+19,2017,12.4361974044,TX.VAL.MMTL.ZS.UN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+20,2018,14.4803182506,TX.VAL.MMTL.ZS.UN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+21,2015,2.8088360021,TX.VAL.MMTL.ZS.UN,USA,United States,North America,High income,Not classified
+22,2016,2.6013043989,TX.VAL.MMTL.ZS.UN,USA,United States,North America,High income,Not classified
+23,2017,2.7462445659,TX.VAL.MMTL.ZS.UN,USA,United States,North America,High income,Not classified
+24,2018,2.9574119485,TX.VAL.MMTL.ZS.UN,USA,United States,North America,High income,Not classified
+25,2019,2.8211532314000003,TX.VAL.MMTL.ZS.UN,USA,United States,North America,High income,Not classified
+26,2020,3.2139083916,TX.VAL.MMTL.ZS.UN,USA,United States,North America,High income,Not classified

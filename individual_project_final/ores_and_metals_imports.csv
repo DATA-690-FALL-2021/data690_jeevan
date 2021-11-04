@@ -1,0 +1,28 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2015,1.5843613694,TM.VAL.MMTL.ZS.UN,AUS,Australia,East Asia & Pacific,High income,Not classified
+1,2016,1.5826952381,TM.VAL.MMTL.ZS.UN,AUS,Australia,East Asia & Pacific,High income,Not classified
+2,2017,1.3996901857,TM.VAL.MMTL.ZS.UN,AUS,Australia,East Asia & Pacific,High income,Not classified
+3,2018,1.4591980572,TM.VAL.MMTL.ZS.UN,AUS,Australia,East Asia & Pacific,High income,Not classified
+4,2019,1.2883316213,TM.VAL.MMTL.ZS.UN,AUS,Australia,East Asia & Pacific,High income,Not classified
+5,2015,10.1847185706,TM.VAL.MMTL.ZS.UN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+6,2016,9.4268050281,TM.VAL.MMTL.ZS.UN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+7,2017,11.3030416769,TM.VAL.MMTL.ZS.UN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+8,2018,10.6878689683,TM.VAL.MMTL.ZS.UN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+9,2019,11.1766938119,TM.VAL.MMTL.ZS.UN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+10,2015,6.4721349373,TM.VAL.MMTL.ZS.UN,IND,India,South Asia,Lower middle income,IBRD
+11,2016,5.2675423192,TM.VAL.MMTL.ZS.UN,IND,India,South Asia,Lower middle income,IBRD
+12,2017,5.6404511021,TM.VAL.MMTL.ZS.UN,IND,India,South Asia,Lower middle income,IBRD
+13,2018,5.9817548899,TM.VAL.MMTL.ZS.UN,IND,India,South Asia,Lower middle income,IBRD
+14,2019,5.1986364235,TM.VAL.MMTL.ZS.UN,IND,India,South Asia,Lower middle income,IBRD
+15,2016,0.5148612235,TM.VAL.MMTL.ZS.UN,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+16,2017,0.5011276111,TM.VAL.MMTL.ZS.UN,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+17,2015,0.291480842,TM.VAL.MMTL.ZS.UN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+18,2016,1.205960889,TM.VAL.MMTL.ZS.UN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+19,2017,1.1246332852,TM.VAL.MMTL.ZS.UN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+20,2018,0.9805714289,TM.VAL.MMTL.ZS.UN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+21,2015,1.9634400966,TM.VAL.MMTL.ZS.UN,USA,United States,North America,High income,Not classified
+22,2016,1.8988810103,TM.VAL.MMTL.ZS.UN,USA,United States,North America,High income,Not classified
+23,2017,2.2415909994,TM.VAL.MMTL.ZS.UN,USA,United States,North America,High income,Not classified
+24,2018,2.2619124473,TM.VAL.MMTL.ZS.UN,USA,United States,North America,High income,Not classified
+25,2019,2.1689129771,TM.VAL.MMTL.ZS.UN,USA,United States,North America,High income,Not classified
+26,2020,2.3213901012,TM.VAL.MMTL.ZS.UN,USA,United States,North America,High income,Not classified

@@ -1,0 +1,61 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,801,SH.DTH.MORT.MA,AUS,Australia,East Asia & Pacific,High income,Not classified
+1,2011,771,SH.DTH.MORT.MA,AUS,Australia,East Asia & Pacific,High income,Not classified
+2,2012,740,SH.DTH.MORT.MA,AUS,Australia,East Asia & Pacific,High income,Not classified
+3,2013,713,SH.DTH.MORT.MA,AUS,Australia,East Asia & Pacific,High income,Not classified
+4,2014,691,SH.DTH.MORT.MA,AUS,Australia,East Asia & Pacific,High income,Not classified
+5,2015,675,SH.DTH.MORT.MA,AUS,Australia,East Asia & Pacific,High income,Not classified
+6,2016,664,SH.DTH.MORT.MA,AUS,Australia,East Asia & Pacific,High income,Not classified
+7,2017,657,SH.DTH.MORT.MA,AUS,Australia,East Asia & Pacific,High income,Not classified
+8,2018,650,SH.DTH.MORT.MA,AUS,Australia,East Asia & Pacific,High income,Not classified
+9,2019,641,SH.DTH.MORT.MA,AUS,Australia,East Asia & Pacific,High income,Not classified
+10,2010,156836,SH.DTH.MORT.MA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+11,2011,145678,SH.DTH.MORT.MA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+12,2012,134969,SH.DTH.MORT.MA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+13,2013,124882,SH.DTH.MORT.MA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+14,2014,115152,SH.DTH.MORT.MA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+15,2015,105891,SH.DTH.MORT.MA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+16,2016,97099,SH.DTH.MORT.MA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+17,2017,88882,SH.DTH.MORT.MA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+18,2018,80991,SH.DTH.MORT.MA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+19,2019,74133,SH.DTH.MORT.MA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+20,2010,761890,SH.DTH.MORT.MA,IND,India,South Asia,Lower middle income,IBRD
+21,2011,711562,SH.DTH.MORT.MA,IND,India,South Asia,Lower middle income,IBRD
+22,2012,663619,SH.DTH.MORT.MA,IND,India,South Asia,Lower middle income,IBRD
+23,2013,618649,SH.DTH.MORT.MA,IND,India,South Asia,Lower middle income,IBRD
+24,2014,577700,SH.DTH.MORT.MA,IND,India,South Asia,Lower middle income,IBRD
+25,2015,540469,SH.DTH.MORT.MA,IND,India,South Asia,Lower middle income,IBRD
+26,2016,507120,SH.DTH.MORT.MA,IND,India,South Asia,Lower middle income,IBRD
+27,2017,476926,SH.DTH.MORT.MA,IND,India,South Asia,Lower middle income,IBRD
+28,2018,448736,SH.DTH.MORT.MA,IND,India,South Asia,Lower middle income,IBRD
+29,2019,425017,SH.DTH.MORT.MA,IND,India,South Asia,Lower middle income,IBRD
+30,2010,46710,SH.DTH.MORT.MA,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+31,2011,45988,SH.DTH.MORT.MA,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+32,2012,45247,SH.DTH.MORT.MA,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+33,2013,44446,SH.DTH.MORT.MA,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+34,2014,43639,SH.DTH.MORT.MA,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+35,2015,42852,SH.DTH.MORT.MA,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+36,2016,42090,SH.DTH.MORT.MA,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+37,2017,41323,SH.DTH.MORT.MA,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+38,2018,40545,SH.DTH.MORT.MA,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+39,2019,39872,SH.DTH.MORT.MA,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+40,2010,50136,SH.DTH.MORT.MA,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+41,2011,48674,SH.DTH.MORT.MA,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+42,2012,47510,SH.DTH.MORT.MA,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+43,2013,46613,SH.DTH.MORT.MA,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+44,2014,46035,SH.DTH.MORT.MA,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+45,2015,45328,SH.DTH.MORT.MA,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+46,2016,44876,SH.DTH.MORT.MA,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+47,2017,44407,SH.DTH.MORT.MA,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+48,2018,44120,SH.DTH.MORT.MA,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+49,2019,43768,SH.DTH.MORT.MA,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+50,2010,16795,SH.DTH.MORT.MA,USA,United States,North America,High income,Not classified
+51,2011,16312,SH.DTH.MORT.MA,USA,United States,North America,High income,Not classified
+52,2012,15879,SH.DTH.MORT.MA,USA,United States,North America,High income,Not classified
+53,2013,15494,SH.DTH.MORT.MA,USA,United States,North America,High income,Not classified
+54,2014,15127,SH.DTH.MORT.MA,USA,United States,North America,High income,Not classified
+55,2015,14842,SH.DTH.MORT.MA,USA,United States,North America,High income,Not classified
+56,2016,14624,SH.DTH.MORT.MA,USA,United States,North America,High income,Not classified
+57,2017,14465,SH.DTH.MORT.MA,USA,United States,North America,High income,Not classified
+58,2018,14305,SH.DTH.MORT.MA,USA,United States,North America,High income,Not classified
+59,2019,14121,SH.DTH.MORT.MA,USA,United States,North America,High income,Not classified

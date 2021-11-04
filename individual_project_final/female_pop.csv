@@ -1,0 +1,7 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,0.87,BAR.NOED.25UP.FE.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+1,2010,9.77,BAR.NOED.25UP.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+2,2010,59.4,BAR.NOED.25UP.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+3,2010,81.58,BAR.NOED.25UP.FE.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+4,2010,87.12,BAR.NOED.25UP.FE.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+5,2010,0.38,BAR.NOED.25UP.FE.ZS,USA,United States,North America,High income,Not classified
